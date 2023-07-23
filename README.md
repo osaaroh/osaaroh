@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on all things Web Development / Building / maintaining documentation. Using the Web Content Accessibility Guidelines (WCAG) version 2.1 as a blueprint.
 - 🌱 I sometimes write tech articles on https://hashnode.com/
 - 👯 I’m looking to collaborate on Frontend web development, Cross platform development with react native, Firebase projects, Eleventy, Docsify, MkDocs.
-- 📫 How to reach me: [Twitter](https://twitter.com/osaaroh), [LinkedIn](https://www.linkedin.com/in/wisdom-nwokocha-76212a77/), [Youtube](https://www.youtube.com/c/techtalkzzz)
+- 📫 How to reach me: [Twitter](https://twitter.com/osaaroh), [LinkedIn](https://ng.linkedin.com/in/osaro-iyoha-b90703132)
 - ⚡ Fun fact:  I love video games, music, writing and movies
 
 ![Visitor Count](https://profile-counter.glitch.me/%7Bmaster-osaro%7D/count.svg)
