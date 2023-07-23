@@ -60,8 +60,6 @@ Here are some ideas to get you started:
 <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src ="https://img.shields.io/badge/android-%2307405e.svg?&style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 <img src ="https://img.shields.io/badge/developer evangelist-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
 <img src ="https://img.shields.io/badge/tech community builder-%2307405e.svg?&style=for-the-badge&logo=community&logoColor=white"/>
